@@ -1,3 +1,6 @@
 [submodule "Hummingbird/Code"]
 	path = Hummingbird/Code
 	url = https://github.com/Frentsch/hummingbird.git
+[submodule "Debuglet/Code"]
+	path = Debuglet/Code
+	url = https://github.com/netsec-ethz/debuglet.git
