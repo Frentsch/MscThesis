@@ -7,3 +7,12 @@
 [submodule "Clockwire/Code"]
 	path = Clockwire/Code
 	url = https://github.com/Frentsch/Clockwire-Market.git
+[submodule "ScionConnectivity/Code/Contract"]
+	path = ScionConnectivity/Code/Contract
+	url = https://github.com/Frentsch/Snap-marketplace.git
+[submodule "ScionConnectivity/Code/Frontend"]
+	path = ScionConnectivity/Code/Frontend
+	url = https://github.com/Frentsch/Connectivity-Frontend.git
+[submodule "ScionConnectivity/Code/Orchestrator"]
+	path = ScionConnectivity/Code/Orchestrator
+	url = https://github.com/Frentsch/Orchestrator.git
