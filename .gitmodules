@@ -1,0 +1,3 @@
+[submodule "Hummingbird/Code"]
+	path = Hummingbird/Code
+	url = https://github.com/Frentsch/hummingbird.git
