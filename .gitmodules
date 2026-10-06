@@ -4,3 +4,6 @@
 [submodule "Debuglet/Code"]
 	path = Debuglet/Code
 	url = https://github.com/netsec-ethz/debuglet.git
+[submodule "Clockwire/Code"]
+	path = Clockwire/Code
+	url = https://github.com/Frentsch/Clockwire-Market.git
